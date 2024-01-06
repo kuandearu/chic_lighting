@@ -4,5 +4,5 @@
    session_unset();
    session_destroy();
    
-   header('location:../user/user_login.php');
+   header('location:../user_login.php');
 ?>
